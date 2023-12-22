@@ -2,6 +2,11 @@
 
 This repository contains recipes for training generative music models on top of the Descript Audio Codec.
 
+**Note: Changed the some requirements and install libraries manually.**
+- [lac](https://github.com/hugofloresgarcia/lac)
+- [https://github.com/descriptinc/audiotools](https://github.com/descriptinc/audiotools/releases/tag/0.7.2)
+
+
 ## try `unloop`
 you can try vampnet in a co-creative looper called unloop. see this link: https://github.com/hugofloresgarcia/unloop
 
